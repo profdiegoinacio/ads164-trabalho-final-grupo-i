@@ -5,11 +5,11 @@ plugins {
 }
 
 android {
-    namespace = "com.example.myapp"
+    namespace = "com.example.apptransporte"
     compileSdk = 35
 
     defaultConfig {
-        applicationId = "com.example.myapp"
+        applicationId = "com.example.apptransporte"
         minSdk = 34
         targetSdk = 35
         versionCode = 1
